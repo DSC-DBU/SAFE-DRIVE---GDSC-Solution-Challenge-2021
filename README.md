@@ -8,7 +8,7 @@ SAFE DRIVE Mobile Application provides a standard drowsiness report on a driverâ
 The 2021 Solution Challenge mission is to solve for one or more of the United Nations 17 Sustainable Development Goals using Google technology.
 
 ### Project Demos
-SAFE DRIVE - GDSC Solution Challenge 2021 [demo]can be viewed on YouTube(https://youtu.be/0rn80eauv4Y).
+SAFE DRIVE - GDSC Solution Challenge 2021 demo can be viewed on YouTube(https://youtu.be/0rn80eauv4Y).
 
 ### How the system works
 
@@ -49,12 +49,12 @@ Note the quality may be low due to conversion from video to GIF format. <br/>
 
 **Languages**
 <br/>
--   * Python
+- * Python
  	* Dart
    
 - Main Framework/Libraries:
- 	*   keras
-    *   OpenCV
+ 	 *  keras
+   *  OpenCV
 
 
 **Backend**
