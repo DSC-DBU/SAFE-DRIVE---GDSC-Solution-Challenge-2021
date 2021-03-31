@@ -10,6 +10,10 @@ The 2021 Solution Challenge mission is to solve for one or more of the United Na
 ### Project Demos
 SAFE DRIVE - GDSC Solution Challenge 2021 [demo]can be viewed on YouTube(https://youtu.be/0rn80eauv4Y).
 
+### How the system works
+
+The the user registers on to the flutter mobile application in order to  review the active reports, and after the user is authenticated the system will start its processing by starting the built in web cam to detect the drowsiness state of the person operating  a viehicle using  TenserFlow and Keras model. Then as soon as a persons drowsiness is detected the system returns an alert and records a timestamp right when that alert is generated and this generted timestamp will be directly stored on the firebase. At the same time, the data stored on the firebase will be fetched from the firestore and be displayed on the flutter application so that the user can view the active reports.
+
 ### How to run SAFE DRIVE Drowsineess AI Detection System
 * pip install -r requirements.txt
 * python drowsinessdetection.py
