@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "595375688543",
+    "project_id": "dd-authentications",
+    "storage_bucket": "dd-authentications.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595375688543:android:d5d34a18431d1f946b84ea",
+        "android_client_info": {
+          "package_name": "com.example.drowsiness_detector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595375688543-04nva214219545krd40k3uc9m2njeku2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7Oepd8OlEUVBNHTQAzi--GHjSPj9NnGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595375688543-04nva214219545krd40k3uc9m2njeku2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
